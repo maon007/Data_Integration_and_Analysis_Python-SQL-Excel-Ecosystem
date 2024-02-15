@@ -1,7 +1,8 @@
 # Medtronic project
 Processing data in Python, SQL and creating a report
 
-### 1. Python project - description
+## Python project
+#### 1. Python project - description
 
     1.	Write a script 'append_tables.py' that
     	1.1 reads data from all the CSV files
@@ -14,7 +15,7 @@ Processing data in Python, SQL and creating a report
     	2.1 this function should be imported and used in the main script 'append_tables.py'
 
 
-### 1. Python project - solution
+#### 1. Python project - solution
 The output consists of 2 Python files (append_table.py and helpers.py) that are able to read all CSV files, append all data into one table, modify the first column as required, print all results and store the final table into the required format.
 
 **IMPORTANT**: The append_table.py is defined as a Python class. To run the script you just need to specify the location of the data. You can run in your terminal via the following command:
@@ -22,13 +23,14 @@ The output consists of 2 Python files (append_table.py and helpers.py) that are 
 python append_tables.py "data_folder_path"
 ```
 
-### 1. Python project - output files
+#### 1. Python project - output files
 - **append_tables.py**: Python class that reads, appends, modifies as required and stores all data, plus print necessary results
 - **helpers.py**: Python function that cleanses the column names (imported in the append_tables.py)
 - **user_actions_2024-02-14.csv**: Final csv file 
 - **Command_line_example.png**: Screenshot with results and showing what the command to run the script could look like
 
-### 2. SQL project - description
+## SQL project
+#### 2. SQL project - description
 
 INSTRUCTIONS TO COMPLETE THE SQL TESTING:
 
@@ -47,17 +49,17 @@ INSTRUCTIONS TO COMPLETE THE SQL TESTING:
 			QUESTION:	How many rows does the query return?
 	6.	After you are finished, please send us both SQL queries.  
 
-### 2. SQL project - solution
+#### 2. SQL project - solution
 The output consists of 2 SQL queries that should cover the requirements mentioned above.
 
 **QUERY 2**: The query returns 17 rows.
 
-### 2. SQL project - output files
+#### 2. SQL project - output files
 - **1st_query.sql**: Selecting unique visitor ID, first name, last name, and counting occurrences
 - **2nd_query.sql**: Selecting period, category, first name, last name, and counting rows
 
-
-### 3. Excel project - description
+## Excel project
+#### 3. Excel project - description
 
 1. Report: This tab contains a table information. 
 The table must contain all avaible columns from tab Data 1 and columns that will be merged with  the information from Data 2.
@@ -66,7 +68,7 @@ The table must contain all avaible columns from tab Data 1 and columns that will
 3. User running this report needs to be able to refresh previously created queries/tables in a single click as well as share the report with others. For a specific purpose another user receiving this report expects to have list of unique categories in the 'dropdown' sheet. 
 
 
-### 3. Excel project - solution
+#### 3. Excel project - solution
 The solution has been prepared in 2 versions - In Excel (I do not have paid version of Excel, so I worked on this task in Google Sheets which could be an alternative to Excel) and via Web application in Python. 
 
 #### Start the Application
@@ -96,14 +98,14 @@ This command maps port 8501 of your local machine to port 8501 inside the contai
 Access your Streamlit app: Open a web browser and go to http://localhost:8501 to access your Streamlit app running inside the Docker container.
 
 
-### 3. Excel project - possible improvements (if there is more time)
+#### 3. Excel project - possible improvements (if there is more time)
 - Python files could be refactored and optimized
 - The layout could be adapted to the user requeirements
 - Results could be direcly send to the email recipient
 - One pivot table is missing (due to lack of time)
 - Storing to Excel could be fixed as well
 
-### 3. Excel project - files
+#### 3. Excel project - files
 - **app_functions.py**: Functions to calculate information for the report
 - **app.py**: Web application written in Python
 - **Dockerfile**: This file contains instructions for building your Docker image.
