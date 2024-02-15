@@ -1,0 +1,27 @@
+
+
+INSTRUCTIONS TO COMPLETE THE SQL TESTING:
+
+
+		1.	Download any free database tool (example: https://dbeaver.io/download/)
+
+		2. 	Your dataset is "data.sqlite"
+		
+		3. 	Compose 2 SQL queries
+
+		4.	Query 1 - select the top 10 users from the available tables. 
+		              Return fields - Unique Visitor ID, First Name, Last Name, COUNT (user occurence in USER_ACTION table), sort results by COUNT
+
+		5.  Query 2 - from the available tables select PERIOD, GenClick Cleansed as CATEGORY, FIRST NAME, LAST NAME, COUNT (rows)
+
+				Query conditions:
+			
+				5.1.	LAST NAME is either Edwards, or Harris
+				5.2.	PERIOD contains string 'JUN'
+		
+				QUESTION:	How many rows does the query return?
+			
+		6.	After you are finished, please send us both SQL queries.  
+
+		
+GOOD LUCK!		
