@@ -1,0 +1,39 @@
+﻿"Date","Page Name [v55] (evar55)","CTA Button Text [v59] (evar59)","General Click [v56] (evar56)","Unique Visitor ID [v78] (evar78)","Connect Page Interaction [e165] (event165)","Connect Master CTA Click [e167] (event167)","Filter Interaction [e152] (event152)"
+"October 5, 2023","DISPUTES","ACCOUNTINVOICEDETAIL","ACCOUNTINVOICEDETAIL:Error: Internal Server Error","8809954082820",1,1,0
+"October 5, 2023","DISPUTES","CTA","CTA:Filter CTA","8807209795588",0,4,0
+"October 5, 2023","DISPUTES","CTA","CTA:Filter CTA","8809954082820",0,1,0
+"October 5, 2023","DISPUTES","Dispute Overview","Filter Applied:clearFacet | clearFacet","8807209795588",0,0,1
+"October 5, 2023","DISPUTES","Dispute Overview","Filter Applied:Dispute Status | Open","8807209795588",0,0,3
+"October 5, 2023","DISPUTES","Dispute Overview","Filter Applied:Dispute Status | Open","8809954082820",0,0,1
+"October 5, 2023","DISPUTES","Dispute Overview","Filter Applied:Dispute Status | Resolved","8807209795588",0,0,1
+"October 5, 2023","DISPUTES","Header-Menu-Clicks","Header-Menu-Clicks: Übersicht Rechnungsreklamation","8809954082820",0,0,0
+"October 5, 2023","DISPUTES","More Details","More Details:1197582649","8809954082820",0,1,0
+"October 5, 2023","DISPUTES","Statement of Account","Filter Applied:Invoices Only: Turned On","8809954082820",1,0,0
+"October 5, 2023","DISPUTES","View Dispute","View Dispute:100002742840","8809954082820",1,2,0
+"October 5, 2023","DISPUTES","View Dispute","View Dispute:100002789467","8807209795588",1,0,0
+"October 5, 2023","DISPUTES","View Dispute","View Dispute:100002793172","8807209795588",1,1,0
+"October 5, 2023","DISPUTES","View Dispute","View Dispute:100002797587","8809954082820",1,0,0
+"October 5, 2023","DISPUTES","View Dispute","View Dispute:100002816514","8807209795588",2,1,0
+"October 5, 2023","DISPUTES","View Dispute","View Dispute:100002845637","8807209795588",1,0,0
+"October 5, 2023","DISPUTES","View Dispute","View Dispute:100002855784","8807209795588",1,1,0
+"October 5, 2023","DISPUTES","View Dispute","View Dispute:100002856140","8809954082820",1,1,0
+"October 5, 2023","DISPUTES","View Dispute","View Dispute:100002875042","8807209795588",1,0,0
+"October 5, 2023","ITCACCOUNTSTATEMENT","","","8805701550084",1,0,0
+"October 5, 2023","ITCACCOUNTSTATEMENT","Download","Statement of Account:Download Initiated","8807071088644",0,1,0
+"October 5, 2023","ITCACCOUNTSTATEMENT","Email","Email:Email Initiated","8807071088644",0,1,0
+"October 5, 2023","ITCACCOUNTSTATEMENT","Header-Menu-Clicks","Header-Menu-Clicks: Relevé de compte","8807071088644",0,0,0
+"October 5, 2023","ITCACCOUNTSTATEMENT","Home","Home:Widget: Account Financial","8809954082820",1,0,0
+"October 5, 2023","ITCACCOUNTSTATEMENT","Home","Home:Widget: Account Financial","8811395809284",1,0,0
+"October 5, 2023","ITCACCOUNTSTATEMENT","Login","Login Success: Login_External : 2023-10-05T08:34:34.386Z","8807071088644",1,0,0
+"October 5, 2023","ITCACCOUNTSTATEMENT","Statement of Account","Filter Applied:Invoices Only: Turned On","8809954082820",0,0,1
+"October 5, 2023","ITCACCOUNTSTATEMENT","Survey Popup","Survey Popup:Survey Cancel","8809954082820",1,0,0
+"October 5, 2023","ITCHISTORYREPORT","","","8807071088644",1,0,0
+"October 5, 2023","ITCHISTORYREPORT","Email","Email:Email Initiated","8807071088644",1,1,0
+"October 5, 2023","ITCHISTORYREPORT","Finance Documents Download","Finance Documents Download:Cancel Invoice","8807071088644",0,1,0
+"October 5, 2023","ITCHISTORYREPORT","Finance Documents Download","Finance Documents Download:Initiated Invoice","8807209795588",0,1,0
+"October 5, 2023","ITCHISTORYREPORT","Home","Home:Widget: Orders","8807209795588",2,0,0
+"October 5, 2023","ITCHISTORYREPORT","Language Selected","Language Selected:English","8807071088644",0,1,0
+"October 5, 2023","ITCHISTORYREPORT","Language Selected","Language Selected:Français (France)","8807071088644",0,1,0
+"October 5, 2023","ITCHISTORYREPORT","Search","Orders:Category: Type de commande & Sub Category: Commande vente directe  Medtronic (ZOR)","8807071088644",1,0,0
+"October 5, 2023","ITCHISTORYREPORT","Search","Orders:Quick View:Complete","8805701550084",1,0,1
+"October 5, 2023","ITCHISTORYREPORT","View Invoice","View Invoice:1233018927","8807209795588",1,1,0

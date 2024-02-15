@@ -1,0 +1,63 @@
+﻿"Date","Page Name [v55] (evar55)","CTA Button Text [v59] (evar59)","General Click [v56] (evar56)","Unique Visitor ID [v78] (evar78)","Connect Page Interaction [e165] (event165)","Connect Master CTA Click [e167] (event167)","Filter Interaction [e152] (event152)"
+"October 4, 2023","DISPUTES","Header-Menu-Clicks","Header-Menu-Clicks: Panoramica contestazioni","8803564224516",0,0,0
+"October 4, 2023","DISPUTES","Invoice","Invoice:More Info 1600469338","8803564224516",0,1,0
+"October 4, 2023","DISPUTES","Invoice Deselected","Invoice Deselected:1024331808","8803564224516",1,0,0
+"October 4, 2023","DISPUTES","More Details","More Details:1209658336","8803564224516",0,1,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","","","8805859426308",1,0,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","CTA","CTA:Filter CTA","8803564224516",0,1,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","CTA","CTA:Filter CTA","8811790270468",0,1,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Date Filter","Date Filter:Applied","8811168825348",0,1,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Download","Statement of Account:Cancel","8811790303236",0,1,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Download","Statement of Account:Download Initiated","8803564224516",0,1,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Download","Statement of Account:Downloaded: excel","8811790303236",0,1,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Error","ITCACCOUNTSTATEMENT:Error: Forbidden","8803564224516",1,2,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Error","ITCACCOUNTSTATEMENT:Error: Internal Server Error","8804647305220",0,5,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Error","ITCACCOUNTSTATEMENT:Error: Internal Server Error","8811168825348",0,4,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Finance Documents Download","Finance Documents Download:Cancel","8807209795588",0,1,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Finance Documents Download","Finance Documents Download:Cancel Invoice","8803564224516",0,1,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Finance Documents Download","Finance Documents Download:Cancel Payment","8803564224516",0,1,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Finance Documents Download","Finance Documents Download:Initiated","8807209795588",1,0,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Finance Documents Download","Finance Documents Download:Initiated Payment|Invoice","8803564224516",0,1,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Header-Menu-Clicks","Header-Menu-Clicks: Extracto de cuenta","8803564224516",0,0,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Header-Menu-Clicks","Header-Menu-Clicks: Home","8804647305220",1,0,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Header-Menu-Clicks","Header-Menu-Clicks: Product retourneren","8811168825348",1,0,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Header-Menu-Clicks","Header-Menu-Clicks: Rekeningafschrift","8811168825348",0,0,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Header-Menu-Clicks","Header-Menu-Clicks: Statement of Account","8805859426308",0,0,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Home","Home:Widget: Account Financial","8804647305220",4,0,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Home","Home:Widget: Account Financial","8805701550084",1,0,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Home","Home:Widget: Account Financial","8811790270468",3,0,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Home","Home:Widget: Account Financial","8811790303236",2,0,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Home","Home:Widget: Account Financial","8811790336004",2,0,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Invoice","Invoice:More Info 1026053135","8803564224516",0,1,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Invoice","Invoice:More Info 1600472072","8803564224516",0,1,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Invoice Deselected","Invoice Deselected:1024331808","8803564224516",0,1,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Language Selected","Language Selected:English","8811168825348",0,1,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Language Selected","Language Selected:Nederlands (Nederland)","8811168825348",1,1,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Login","Login Success: Login_External : 2023-10-04T13:50:55.123Z","8804647305220",1,0,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Search","Translations:Connect Enterprise | Italiano (Italia) | itc.commercialDocTypes.Payment","8803564224516",1,0,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Search Term","manageActiveCustomers:1178364","8811790303236",1,0,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Search Term","manageActiveCustomers:st. jans gasthuis","8804647305220",1,0,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Statement of Account","Filter Applied:View All Accounts: Turned On","8803564224516",0,0,1
+"October 4, 2023","ITCACCOUNTSTATEMENT","Statement of Account","Filter Removed:Invoices Only: Turned Off","8811168825348",0,0,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Statement of Account","Filter Removed:View All Accounts: Turned Off","8803564224516",0,0,0
+"October 4, 2023","ITCACCOUNTSTATEMENT","Statement of Account","Search:1199497229","8811790336004",0,0,1
+"October 4, 2023","ITCACCOUNTSTATEMENT","Statement of Account","Search:EGIAUSTND","8804647305220",0,0,1
+"October 4, 2023","ITCACCOUNTSTATEMENT","View Invoice","View Invoice:1024331808","8803564224516",1,1,0
+"October 4, 2023","ITCHISTORYREPORT","","","8803564224516",1,0,0
+"October 4, 2023","ITCHISTORYREPORT","CTA","CTA:Filter CTA","8807071088644",0,1,0
+"October 4, 2023","ITCHISTORYREPORT","Download","History Report:Download Initiated","8803564224516",0,1,0
+"October 4, 2023","ITCHISTORYREPORT","Finance Documents Download","Finance Documents Download:Cancel Invoice","8803564224516",0,1,0
+"October 4, 2023","ITCHISTORYREPORT","Finance Documents Download","Finance Documents Download:Initiated Invoice","8803564224516",0,2,0
+"October 4, 2023","ITCHISTORYREPORT","Finance Documents Download","Finance Documents Download:Initiated Invoice|Credit","8803564224516",0,1,0
+"October 4, 2023","ITCHISTORYREPORT","Header-Menu-Clicks","Header-Menu-Clicks: Grand-Livre","8807071088644",0,0,0
+"October 4, 2023","ITCHISTORYREPORT","Header-Menu-Clicks","Header-Menu-Clicks: Report Storico","8803564224516",0,0,0
+"October 4, 2023","ITCHISTORYREPORT","History Report","Filter Applied:Dispute status | Closed","8807071088644",0,0,1
+"October 4, 2023","ITCHISTORYREPORT","Home","Home:Widget: Orders","8807209795588",2,0,0
+"October 4, 2023","ITCHISTORYREPORT","Invoice","Invoice:More Info 1217559304","8807071088644",0,1,0
+"October 4, 2023","ITCHISTORYREPORT","Language Selected","Language Selected:Français (France)","8803564224516",1,0,0
+"October 4, 2023","ITCHISTORYREPORT","Leave page confirmation","Leave page confirmation:Leave","8803564224516",0,1,0
+"October 4, 2023","ITCHISTORYREPORT","Order Visibility","Order Visibility:Tab Name: ORDERS","8807209795588",1,1,0
+"October 4, 2023","ITCHISTORYREPORT","Report Order Discrepency","Report Order Discrepency:Order ID: 6219629577","8807071088644",1,0,0
+"October 4, 2023","ITCHISTORYREPORT","Search","Translations:Connect Enterprise | English | invoice","8803564224516",1,0,0
+"October 4, 2023","ITCHISTORYREPORT","Search","Translations:Connect Enterprise | Italiano (Italia) | autorizado","8803564224516",0,0,1
+"October 4, 2023","ITCHISTORYREPORT","Search Term","manageActiveCustomers:chu rennes","8807071088644",1,0,0
