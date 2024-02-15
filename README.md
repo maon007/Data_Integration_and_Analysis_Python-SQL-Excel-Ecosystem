@@ -57,6 +57,55 @@ The output consists of 2 SQL queries that should cover the requirements mentione
 - **2nd_query.sql**: Selecting period, category, first name, last name, and counting rows
 
 
+### 3. Excel project - description
+
+1. Report: This tab contains a table information. 
+The table must contain all avaible columns from tab Data 1 and columns that will be merged with  the information from Data 2.
+
+2. Pivot: It displays 3 pivot tables
+3. User running this report needs to be able to refresh previously created queries/tables in a single click as well as share the report with others. For a specific purpose another user receiving this report expects to have list of unique categories in the 'dropdown' sheet. 
 
 
+### 3. Excel project - solution
+The solution has been prepared in 2 versions - In Excel (I do not have paid version of Excel, so I worked on this task in Google Sheets which could be an alternative to Excel) and via Web application in Python. 
 
+#### Start the Application
+
+#### Directly (using streamlit library)
+First, make sure you have Streamlit and Pandas installed (e.g. pip install streamlit). 
+To run the app, navigate to the directory containing the script in your terminal and run:
+```python
+streamlit run app.py
+```
+
+#### Using a Dockerfile
+You can also use a Dockerfile to build the image for the scraper script. Open a terminal and navigate to the directory containing your Dockerfile and Streamlit app files.
+Build the image using the following command:
+```bash
+docker build -t my_streamlit_app .
+```
+You can replace "my_streamlit_app" with the desired name for your Docker image.
+
+Run the Docker container: Once the image is built, you can run it as a container:
+```bash
+docker run -p 8501:8501 my_streamlit_app
+```
+
+This command maps port 8501 of your local machine to port 8501 inside the container, where Streamlit is running.
+
+Access your Streamlit app: Open a web browser and go to http://localhost:8501 to access your Streamlit app running inside the Docker container.
+
+
+### 3. Excel project - possible improvements (if there is more time)
+- Python files could be refactored and optimized
+- The layout could be adapted to the user requeirements
+- Results could be direcly send to the email recipient
+- One pivot table is missing (due to lack of time)
+- Storing to Excel could be fixed as well
+
+### 3. Excel project - files
+- **app_functions.py**: Functions to calculate information for the report
+- **app.py**: Web application written in Python
+- **Dockerfile**: This file contains instructions for building your Docker image.
+- **requirements.txt**: This file contains all the Python libraries your Streamlit app depends on.
+- **Report_Feb14_2024.xlsx**: This file contains merged data from Data 1 and Data 2 (in the column "Report data"), then 3 pivot tables and a sheet called "dropdown" using function UNIQUE to get 'Data 2' column 'O' (Category) in column 'A' in this sheet called 'dropdown'
