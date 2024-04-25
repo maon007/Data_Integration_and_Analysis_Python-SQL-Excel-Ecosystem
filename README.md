@@ -1,5 +1,4 @@
-# Medtronic project
-Processing data in Python, SQL and creating a report
+# Processing data in Python, SQL, building a report
 
 ## Python project
 #### 1. Python project - description
